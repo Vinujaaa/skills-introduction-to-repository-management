@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Vinujaaa
+/src/backend/database.py      @Vinujaaa
+/src/backend/routers/auth.py  @Vinujaaa
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Vinujaaa
